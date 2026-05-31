@@ -12,7 +12,7 @@ This repository contains the complete R implementation accompanying the study on
 - Hybrid 1D-CNN-LSTM
 
 ## Data
-Monthly data for the Iraqi economy covering the period 2008–2025.
+Monthly data for the Iraqi economy covering the period 2008-2025.
 
 ## Evaluation Measures
 - RMSE
